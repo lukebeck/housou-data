@@ -13,7 +13,7 @@ like 台風12号. Parsing more articles will not solve this issue, only doing so
 
 [`count.csv`](../count.csv) | morpheme data ordered by count
 [`morpheme.csv`](../morpheme.csv) | morpheme data ordered by morpheme
-[`table.md`](../table.md) | markdown document tabling data ordered by count
+[`table.md`](../table.md) | markdown document tabling data for top 2000 entries ordered by count
 
 ## 🔖 Statistics
 
