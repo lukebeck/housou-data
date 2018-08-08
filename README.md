@@ -12,6 +12,6 @@ File | Description
 [`morpheme.csv`](morpheme.csv) | morpheme data ordered by morpheme
 
 ## 🔖 Statistics
-- **Articles analysed:** 358
-- **Morphemes identified:** 119299
-- **Unique morphemes:** 7143
+- **Articles analysed:** 527
+- **Morphemes identified:** 170853
+- **Unique morphemes:** 8410
